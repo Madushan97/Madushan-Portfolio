@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Madushan-Portfolio/static/css/main.389823b2.css",
+    "main.js": "/Madushan-Portfolio/static/js/main.0f0ddb08.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Madushan-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/logo_sub.png": "/Madushan-Portfolio/static/media/logo_sub.ea24a92bdd80b0d91fea.png",
+    "static/media/helvetica-neu.ttf": "/Madushan-Portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/Madushan-Portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/Madushan-Portfolio/static/media/logo-s.93ee703adb3df0cc596d.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/Madushan-Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/Madushan-Portfolio/index.html",
+    "main.389823b2.css.map": "/Madushan-Portfolio/static/css/main.389823b2.css.map",
+    "main.0f0ddb08.js.map": "/Madushan-Portfolio/static/js/main.0f0ddb08.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Madushan-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.389823b2.css",
+    "static/js/main.0f0ddb08.js"
+  ]
+}
